@@ -1,86 +1,177 @@
-There are six antique computers set up for you to experiment with at MITH. In this, Phase I of the Media Archaeology module, you will learn basic facts about the pedigree of each, figure out how to turn it on (not always obvious!), and perform a few simple tasks to get a feel for how it works. You will work individually for this first phase of the module, logging your activity with each machine via GitHub. (Feel free to ask a classmate for help if you’re genuinely stuck on something, but only after you’ve made an honest effort on your own.) 
-
-For the second phase of the module (to be distributed) you will work in pairs or small groups, choosing one or two computers for a more detailed exploration which may involve building or making something with its original software, and/or doing deeper historical and analytical work. 
-
-You will generally have access to the computers any time MITH is open to the public, which is Mon-Fri, 9-5. Feel free to contact me with any logistical or technical problems. Phase I of this module is due by October 27.
-
-*** Safe Handling ***
-
-Some of these computers are more than three and a half decades old! They built ‘em strong back then so you don’t have to handle them with kid gloves, but please do treat the hardware with respect. To that end:
-
-•	Absolutely no food or drink on the tabletop.
-•	Some of the plugs and connections holding everything together are loose or delicate. If a machine doesn’t turn on check that all of its components are snugly plugged and connected, and that there is power going to it. Use common sense to try troubleshooting.
-•	Never force anything. If something doesn’t seem to want to work or go or bend or fit, leave it be and ask me.
-•	Please keep fingers off of the recording surface of the diskettes. Also keep magnets away!
-•	All of the computers except the two Macs can simply be switched off at any point (though you will lose your work unless it’s been saved to a disk). The Macs should always be shut down using the appropriate option under the “Special” heading of the home menu (top of screen).
-•	When you turn a computer off, wait about 10 seconds before turning it back on.
-•	Please neaten up the workspace around each computer when you finish. Return diskettes to sleeves and holders, stack any books in an orderly fashion, etc.
-•	Above all: please remember to turn these computers OFF when you are done with them. Remember, the learning experience for everyone starts with figuring out how to turn them on! Moreover, they won’t go to “sleep” on their own, and whatever is left of their lifespan will be diminished if they are left running.
-
-*** The Exercise ***
-
-For each computer, answer the questions and perform the tasks indicated. Feel free to consult any reference sources you spot around MITH (check the spline!), and/or Wikipedia or other online sources.
-
-Make some additional notes below about each machine as you go: What’s the most notable difference from a computer that you’re used to? Can this computer and its software do anything that your current computer cannot? 
-
-==================================================================================================================
 KAYPRO 4
 
 •	What year was it made? 
-•	What operating system does it run? 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
-•	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+1984
 
-Turn it on (you must figure out how). Start WordStar (you must figure out how). Try typing a simple document, experimenting with some commands based on the keyboard template. (You don’t need to save your document.)
+•	What operating system does it run?
+Kaypro 2.2
+
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+Then: $1800.00
+Now: $299.00 on EBAY -- there are multiple options for diskets, but I only found 1 for an actual computer
+
+•	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+According to the Wikipedia article, "Arthur C. Clarke used a Kaypro II to write and collaboratively edit (via modem from Sri Lanka) his 1982 novel 2010: Odyssey Two." 
+
+So the Kaypro will always have that. At the time of its release, it was mostly praised for its durability. It went through rapid transformations to try to keep up with 
+
+competitors, even if their hardware components remained almost identical to the last. It was bankrupted by the 1990s, but Microsoft did briefly try to revive it and 
+
+failed. 
+
+
+Turn it on (you must figure out how). Start WordStar (you must figure out how). Try typing a simple document, experimenting with some commands based on the keyboard 
+
+template. (You don’t need to save your document.)
+
+~#turn it on by a switch on the back of the computer
+~#I put the disket for WordStar in, typed, but could not get any of the commands to work for me
+~#this was the most frustrating of all the computers to work with.
+
 
 ===================================================================================================================
 APPLE IIe
 
-•	What year was it made? 
-•	What operating system does it run? 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
-•	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+•	What year was it made?
+1983
 
-Turn it on (you must figure out how). Work your way through the Apple Presents Apple tutorial. Try a game or two. (If you can beat one of my high scores on Sea Dragon you’ll get a prize. Really!)
+•	What operating system does it run? 
+Apple DOS 3.3
+
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).
+Then: $1,298.00; $2,841.73-adjusted for inflation
+Now: the best model (or model I'd most trust) on ebay is $359.00 but there are some that range lower ($159-$250)
+
+•	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Apple IIe was praised for its improvements to the Apple II, while remaining capatible with earlier models. According to Wikipedia, this model was available for 
+
+over ten years (from January 1983 to November 1993), which if true, is a testament to its usefulness. Its easy to use functions made it desirable for first-time 
+
+computer owners. 
+
+
+Turn it on (you must figure out how). Work your way through the Apple Presents Apple tutorial. Try a game or two. (If you can beat one of my high scores on Sea Dragon 
+
+you’ll get a prize. Really!)
+
+~#there is both a switch in front and a switch in back to turn it on
+~#I had problems with the monitor jumping, blurring, and cutting out on me. I e-mailed you about it. I tried to do as much as the tutorial as I could manage to 
+
+decipher, but in the end, it just gave me a headache.
 
 ====================================================================================================================
 MACINTOSH SE
 
-•	What year was it made? 
+•	What year was it made?
+1989
+
 •	What operating system does it run? 
+The manuel says "Macintosh Operating System" on page 30
+
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+Then: $6,495.00; $11,421.56-adjusted for inflation
+Now: There are quite a few on ebay that range from $15-$95.
+
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+Fun fact: first Macintosh unit to have an internal cooling fan, a feature in computers many of us take for granted. Like most of the other computers, this was 
+
+historical best as a personal computer. From the story elements, this was probably a good computer for primary and secondary schools. While it has decent specs, the 
+
+price tag seems a little steep for what was available in 1989.
+
 
 Turn it on (you must figure out how). Read some of Deena Larsen’s Marble Springs. Quit Marble Springs. What else is on this Mac?
+~#switch is on the back of the computer
+~#I loved how interactive Marble Springs was
+~#the navigation wasn't great and so I didn't understand where was the next logical step and while I liked the feature of writing in the margin, I wished I could see 
+
+my comments next to poem
+~#it said I did not have enough memory to open *We Descend*
+~#I tried to access Storyspace, but I kept getting this awful dinging sound
 
 ===================================================================================================================
 VECTREX
 
-•	What year was it made? 
+•	What year was it made?
+1982
+
 •	What operating system does it run? 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+MineStorm is directly on the computer, but it runs cartridges by way of a Motorola 68A09 @ 1.5 MHz
+
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).
+Then: $199; $470-adjusted for inflation
+Now: there is a model on ebay for $422 and another for $550
+ 
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+The Vectrex is an entertainment system. It is designed for people's amusement and leisure time. If you have the free time to spend on games and have no need for a 
+
+system with professional options, it is a good fit. Otherwise, the system could not be used for anything else.
+
 
 Turn it on (you must figure out how). Play MineStorm. Try another cartridge. Why do you think the designer’s would have opted for the “vector” graphics?
+~#took me the longest to figure out how to turn this one on, the fact that it is also the volume control/a turn knob made it a little tricky
+~#MineStorm was fun, but I found navigating hard, so I just spun the spaceship around and shot randomly
+~#I tried *Fortress of Norzoid*, but it wouldn't load
+~#I could not figure out *Heads Up Soccer,* though I did manage to save a goal at one point
+~#I found the graphics very simplistic, which means they were easy to replicate... the games all looke similar to each other... and mass production general means more 
+
+money because people go out to buy more games, but the Wikipedia article says there was a video game crash the year after this was released and Vectrex was actually a 
+
+failure
 
 ===================================================================================================================
 AMIGA
 
 •	What year was it made? 
-•	What operating system does it run? 
-•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
-•	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+1985
 
-Turn it on (you must figure out how). Try the demos. What else can it do? (Hint: try the “Amiga Appetizer” disk). Have a look at the Amiga magazines and the book, The Future Was Here.
+•	What operating system does it run?
+Amiga OS
+
+•	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List).
+Then: $1,295.00; $2,624.37-adjusted for inflation
+Now: after scouring E-bay, I found a full model for $550.00
+ 
+•	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+It was best known for being a great home desktop, because of its creative software. This computer was by far the most colorful and you can tell in the demos the 
+
+developers put a lot into the design. The weakness in the Amiga was apparently it could not keep up with the improvements of other systems and fell to the wayside.
+
+Turn it on (you must figure out how). Try the demos. What else can it do? (Hint: try the “Amiga Appetizer” disk). Have a look at the Amiga magazines and the book, The 
+
+Future Was Here.
+~#switch on the side of the computer
+~#I did not understand the function of the demos, other than to show-off their vibrant colors
+~#it seemed to be good for music, but I did not play any to be considerate of MITH people
+~#it was a pain to keep switching between floppy disks
+~#when trying to escape paint, neither esc nor ctrl-alt-del worked~I finally figured out how to right click and hold to exit the screen
 
 
 ===================================================================================================================
 MACINTOSH IIci
 
-•	What year was it made? 
+•	What year was it made?
+1989
+
 •	What operating system does it run? 
+System 7.5
+
 •	How much did it cost (then and now, adjusted for inflation)? How hard is it to find one on the secondhand market (check eBay and Craig’s List). 
+Then: $5,369.00; $9,896.39-adjusted for inflation
+Now: there is a model for $379.99 and $549.00
+
 •	In brief (a short paragraph), what were its historical strengths and weaknesses as a platform? What was it best known for?
+This computer was best for business practice. It had a large capacity for internal memory and ease for adding memory rom, which is great for working on big projects. 
 
-Turn it on (you must figure out how). Open WordPerfect. Open MS Word. Try typing a simple document in each. Which do you like better, and why? Open MacPaint. Try drawing something. (You don’t need to save any of your work from these applications.) What else is on this Mac? What can you learn about its past user(s)?
+At the time of its release, it was the fastest of the Macintoshes available as well. 
 
+
+Turn it on (you must figure out how). Open WordPerfect. Open MS Word. Try typing a simple document in each. Which do you like better, and why? Open MacPaint. Try 
+
+drawing something. (You don’t need to save any of your work from these applications.) What else is on this Mac? What can you learn about its past user(s)?
+
+~#button is on the back of the computer
+~#previous user made a lot of posters and signs on Word Perfect
+~#WordPerfect seemed to have more options from Microsoft Word
+~#paint isn't as fun because it is in black & white... but I did save my work
+~#there is excel on this MAC-files seem condensed, but I can get behind the pizza list
